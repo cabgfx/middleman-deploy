@@ -1,7 +1,7 @@
 module Middleman
   module Deploy
     PACKAGE = 'middleman-deploy'
-    VERSION = '2.0.0-alpha'
+    VERSION = '2.0.0'
     TAGLINE = 'Deploy a middleman built site over rsync, ftp, sftp, or git (e.g. gh-pages on github).'
     README = %{
 You should follow one of the four examples below to setup the deploy
